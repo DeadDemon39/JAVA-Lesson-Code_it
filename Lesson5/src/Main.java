@@ -20,17 +20,17 @@ public class Main {
 //
 //
 //
-//         ЦИКЛ WHILE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-//        boolean isContinue = true;
-//
-//        while (isContinue) {
-//            System.out.println("Hello");
-//            System.out.println("Continue& (1/0)"); // true ВОЗВРАТ!!!!!!!!!
-//            int input = new Scanner(System.in).nextInt();
-//            if (input == 0) {
-//                isContinue = false;
-//            }
-//          }
+         ЦИКЛ WHILE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+        boolean isContinue = true;
+
+        while (isContinue) {
+            System.out.println("Hello");
+            System.out.println("Continue& (1/0)"); // true ВОЗВРАТ!!!!!!!!!
+            int input = new Scanner(System.in).nextInt();
+            if (input == 0) {
+                isContinue = false;
+            }
+          }
 //
 //
 //        boolean isContinue = true;
